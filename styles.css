@@ -27,5 +27,5 @@
     font-size: 2rem; /*rem=10px*/
   }
   .navegacion_principal {
-    background-color: var(--secundario);
+    background-color: var(--grisclaro);
   }

@@ -26,6 +26,12 @@
   
     font-size: 2rem; /*rem=10px*/
   }
+  .contenedor{
+
+   width: 120rem; 
+  }
+    
+  
   .navegacion_principal {
     background-color: var(--secundario);
   }

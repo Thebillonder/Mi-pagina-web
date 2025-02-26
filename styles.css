@@ -31,8 +31,10 @@
    width: 120rem; 
    margin: 0 auto 0 auto;
   }
-    
+    .nav-bg{
+      background-color: var var(--secundario)xs ;
+    }
   
-  .navegacion_principal {
+  .navegacion-principal {
     background-color: var(--secundario);
   }
